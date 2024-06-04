@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Wilfrida Were" 
-subtitle: "Data Analyst | Problem Solver | Lifelong Learner"
+title: "Data Analyst" 
 ---
 I'm a Data enthusiast who thrives on solving problems with data. I use Python, SQL, and Tableau to clean data, create clear visuals, and uncover hidden insights.
 
