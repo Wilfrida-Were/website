@@ -2,7 +2,7 @@
 title:  "Why Data Science?"
 layout: post
 ---
-![data science](/what-is-data-science.webp)
+![data science](https://i1.wp.com/phdcoding.com/wp-content/uploads/2020/04/what-is-data-science.jpg?fit=1920%2C1080&ssl=1)
 
 My love affair with computers started with video games, but the real magic was behind the screen. I've always been fascinated by how things work, who builds them, and the intricate details that make them tick. This ignited a passion for exploration and tinkering, a promise to myself to keep learning and uncovering the mysteries of technology.  The challenge was finding the perfect field to channel this curiosity.
 
