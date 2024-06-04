@@ -3,6 +3,9 @@ title: "Portfolio"
 permalink: "/portfolio/"
 layout: page
 ---
+EDA - *Exploratory Data Analysis*
+
+Click the project *titles* to view the full descriptions.
 
 ## [Retail Sales EDA in Python](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)
 
@@ -38,4 +41,4 @@ Dived deep into the top 20 most-streamed tracks, exploring artist prevalence and
 
 Investigated how musical key and mode have evolved over time.
 
-I will be exploring and sharing more projects on [Kaggle](https://www.kaggle.com/wilfridawere/code).
+I will be exploring and sharing more projects on [Kaggle](https://www.kaggle.com/wilfridawere/code) linked to [Github](https://github.com/Wilfrida-Were)
