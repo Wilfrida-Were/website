@@ -21,7 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: wilfrida.a.were@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/Wilfrida-Were"} 
+  - {title: Github, icon: github, url: "https://github.com/Wilfrida-Were"}
+  - {title: LinkedIn, url: "https://www.linkedin.com/in/wilfridawere/"}
+  - {title: Kaggle, url: "https://www.kaggle.com/wilfridawere/code"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
