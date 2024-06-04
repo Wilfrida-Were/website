@@ -20,10 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: LinkedIn, icon: fab fa-linkedin, url: "https://www.linkedin.com/in/wilfridawere/"}
+  - {title: LinkedIn, icon: fa-brands fa-linkedin, url: "https://www.linkedin.com/in/wilfridawere/"}
   - {title: Mail, icon: envelope, url: "mailto: wilfrida.a.were@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Wilfrida-Were"} 
-  - {title: Kaggle, icon: fab fa-kaggle, url: "https://www.kaggle.com/wilfridawere/code"}
+  - {title: Kaggle, icon: fa-brands fa-kaggle, url: "https://www.kaggle.com/wilfridawere/code"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
