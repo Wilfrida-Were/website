@@ -2,4 +2,6 @@
 layout: page
 title: ""
 ---
-Feel free to Contact Me and Connect with me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/).
+Feel free to Connect with me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
+
+For Questions or Comments please contact me via Email **wilfrida.a.were@gmail.com**
