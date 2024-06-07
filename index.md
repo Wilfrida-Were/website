@@ -2,7 +2,9 @@
 layout: page
 title: "Data Analyst" 
 ---
-I'm a Data enthusiast who thrives on solving problems with data. I use Python, SQL, and Tableau to clean data, create clear visuals, and uncover hidden insights.
+As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive success. 
+
+I leverage SQL to extract relevant data, then use Python's analytical power to clean and analyze it, revealing hidden patterns and customer trends. Finally, I create clear and concise dashboards with Tableau, empowering your leadership to make data-driven decisions for marketing and efficiency.
 
 Beyond Data:
 
