@@ -7,9 +7,17 @@ EDA - *Exploratory Data Analysis*
 
 Click the project *titles* to view the full descriptions.
 
+## [Market Basket Analysis](https://github.com/Wilfrida-Were/Market-Basket-Analysis/blob/main/README.md)
+
+![Market Basket Analysis image](https://miro.medium.com/v2/resize:fit:1090/0*gsP-V6bLLsjxObON.jpg)
+
+Implemented Market Basket Analysis: Analyzed customer purchase patterns in an online retail dataset to identify frequently bought-together items. This involved data cleaning, binary encoding for presence/absence of products, and the Apriori algorithm to generate association rules.
+
+Generated Actionable Insights: Identified strong co-occurrence patterns between products and provided recommendations for improved product placement, inventory management, and potential bundled promotions to increase sales.
+
 ## [Retail Sales EDA in Python](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)
 
-![Retaiil image](https://th.bing.com/th/id/OIP.6dtVakiVbez83WasNUyzhAHaFh?rs=1&pid=ImgDetMain)
+![Retail image](https://th.bing.com/th/id/OIP.6dtVakiVbez83WasNUyzhAHaFh?rs=1&pid=ImgDetMain)
 
 Performed Customer segmentation by age and gender, identifying variations in daily and monthly spending patterns across product categories 
 
