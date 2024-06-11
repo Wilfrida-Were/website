@@ -21,7 +21,7 @@ Table of Contents
 3. [Practice Makes Perfect](#practice-makes-perfect)
 4. [Sharpening Your Skills](#sharpening-your-skills)
 
-# 1. Build Your Foundation {#build-your-foundation}
+## 1. Build Your Foundation {#build-your-foundation}
 
 * **Conceptual Understanding**: While AI tools can explain complex topics, solidify your grasp of core data science concepts first. Online courses on Coursera or Udemy, and Youtube tutorials are excellent resources. 
 
@@ -29,7 +29,7 @@ Table of Contents
 
 Example Prompts: *"Explain the difference between supervised and unsupervised learning in simple terms", "Can you tell me how apriori algorithm works?"*
 
-# 2. Exploring Tools and Techniques {#exploring-tools-and-techniques}
+## 2. Exploring Tools and Techniques {#exploring-tools-and-techniques}
 
 * **Researching Tools**: Leverage AI assistants to research popular programming languages (Python, R), data visualization libraries (Matplotlib, Seaborn), and database management systems (SQL).
 
@@ -37,7 +37,7 @@ Example Prompts: *"Explain the difference between supervised and unsupervised le
 
 Example Prompts: *"Show me how to use LEFT JOIN in SQL", "Can you provide a code snippet for creating a bar chart in Seaborn?"*
 
-# 3. Practice Makes Perfect {#practice-makes-perfect}
+## 3. Practice Makes Perfect {#practice-makes-perfect}
 
 * **Finding Datasets**: Utilize online repositories like [Kaggle](https://www.kaggle.com/datasets) and [UCI Machine learning repository](https://archive.ics.uci.edu/) to find practice datasets relevant to your interests.
 
@@ -47,7 +47,7 @@ Example Prompts: *"Show me how to use LEFT JOIN in SQL", "Can you provide a code
 
 Example Prompts: *"What kind of data cleaning might be necessary for this dataset?", "Can you propose some visualizations to explore trends in this data?"*
 
-# 4. Sharpening Your Skills {#sharpening-your-skills}
+## 4. Sharpening Your Skills {#sharpening-your-skills}
 
 * **Communication is Key**: Data analysts and data scientists need to effectively communicate insights. Use AI tools to practice explaining complex concepts in a clear and concise way.
 
