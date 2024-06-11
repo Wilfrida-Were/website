@@ -23,6 +23,8 @@ Table of Contents
 
 ## 1. Build Your Foundation {#build-your-foundation}
 
+## Build Your Foundation {#build-your-foundation}
+
 * **Conceptual Understanding**: While AI tools can explain complex topics, solidify your grasp of core data science concepts first. Online courses on Coursera or Udemy, and Youtube tutorials are excellent resources. 
 
 * **AI Assistance**: Once you have a basic understanding, use Gemini or ChatGPT to clarify specific concepts. Ask questions about data cleaning techniques, statistical methods, or machine learning algorithms.
