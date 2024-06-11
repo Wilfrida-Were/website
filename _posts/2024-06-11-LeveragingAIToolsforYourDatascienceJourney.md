@@ -14,16 +14,17 @@ Balancing a full-time job or your studies with this new path can stretch your ti
 
 So this my guide on how to use AI tools to be more effective and efficient.
 
-Table of Contents
+## Table of Contents
 
-1. [Build Your Foundation](#build-your-foundation)
-2. [Exploring Tools and Techniques](#exploring-tools-and-techniques)
-3. [Practice Makes Perfect](#practice-makes-perfect)
-4. [Sharpening Your Skills](#sharpening-your-skills)
+<ul>
+  <li><a href="#build-your-foundation">Build Your Foundation</a></li>
+  <li><a href="#exploring-tools-and-techniques">Exploring Tools and Techniques</a></li>
+  <li><a href="#practice-makes-perfect">Practice Makes Perfect</a></li>
+  <li><a href="#sharpening-your-skills">Sharpening Your Skills</a></li>
+</ul>
 
-## 1. Build Your Foundation {#build-your-foundation}
-
-## Build Your Foundation {#build-your-foundation}
+<a id="build-your-foundation"></a>
+## Build Your Foundation
 
 * **Conceptual Understanding**: While AI tools can explain complex topics, solidify your grasp of core data science concepts first. Online courses on Coursera or Udemy, and Youtube tutorials are excellent resources. 
 
@@ -31,7 +32,8 @@ Table of Contents
 
 Example Prompts: *"Explain the difference between supervised and unsupervised learning in simple terms", "Can you tell me how apriori algorithm works?"*
 
-## 2. Exploring Tools and Techniques {#exploring-tools-and-techniques}
+<a id="exploring-tools-and-techniques"></a>
+## Exploring Tools and Techniques 
 
 * **Researching Tools**: Leverage AI assistants to research popular programming languages (Python, R), data visualization libraries (Matplotlib, Seaborn), and database management systems (SQL).
 
@@ -39,7 +41,8 @@ Example Prompts: *"Explain the difference between supervised and unsupervised le
 
 Example Prompts: *"Show me how to use LEFT JOIN in SQL", "Can you provide a code snippet for creating a bar chart in Seaborn?"*
 
-## 3. Practice Makes Perfect {#practice-makes-perfect}
+<a id="practice-makes-perfect"></a>
+## Practice Makes Perfect
 
 * **Finding Datasets**: Utilize online repositories like [Kaggle](https://www.kaggle.com/datasets) and [UCI Machine learning repository](https://archive.ics.uci.edu/) to find practice datasets relevant to your interests.
 
@@ -49,7 +52,8 @@ Example Prompts: *"Show me how to use LEFT JOIN in SQL", "Can you provide a code
 
 Example Prompts: *"What kind of data cleaning might be necessary for this dataset?", "Can you propose some visualizations to explore trends in this data?"*
 
-## 4. Sharpening Your Skills {#sharpening-your-skills}
+<a id="sharpening-your-skills"></a>
+## Sharpening Your Skills 
 
 * **Communication is Key**: Data analysts and data scientists need to effectively communicate insights. Use AI tools to practice explaining complex concepts in a clear and concise way.
 
