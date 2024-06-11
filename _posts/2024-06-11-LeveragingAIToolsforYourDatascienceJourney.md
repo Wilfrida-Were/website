@@ -12,7 +12,14 @@ There's a phase in the data science journey many experience – the "tutorial li
 
 Balancing a full-time job or your studies with this new path can stretch your timeline.  That's exactly where I found myself. Thankfully, discovering the power of AI tools was a game-changer. They helped me leverage my existing knowledge and provided valuable guidance to move forward.
 
-So this my guide on how to use AI tools to be more effective and efficient:
+So this my guide on how to use AI tools to be more effective and efficient.
+
+Table of Contents
+
+1. [Build Your Foundation](#building-your-foundation)
+2. [Exploring Tools and Techniques](#exploring-tools-and-techniques)
+3. [Practice Makes Perfect](#practice-makes-perfect)
+4. [Sharpening Your Skills](#sharpening-your-skills)
 
 # 1. Build Your Foundation:
 
