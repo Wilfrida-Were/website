@@ -12,7 +12,7 @@ There's a phase in the data science journey many experience – the "tutorial li
 
 Balancing a full-time job or your studies with this new path can stretch your timeline.  That's exactly where I found myself. Thankfully, discovering the power of AI tools was a game-changer. They helped me leverage my existing knowledge and provided valuable guidance to move forward.
 
-So this my guide on how to use AI tools to be more effective and efficient.
+So this is my guide on how to use AI tools to be more effective and efficient.
 
 ## Table of Contents
 
@@ -35,7 +35,7 @@ Example Prompts: *"Explain the difference between supervised and unsupervised le
 <a id="exploring-tools-and-techniques"></a>
 ## Exploring Tools and Techniques 
 
-* **Researching Tools**: Leverage AI assistants to research popular programming languages (Python, R), data visualization libraries (Matplotlib, Seaborn), and database management systems (SQL).
+* **Researching Tools**: Leverage AI assistants to research popular programming languages (Python, R), data visualisation libraries (Matplotlib, Seaborn), and database management systems (SQL).
 
 * **AI's Role**: You can use AI to generate code snippets or functions to understand the syntax and functionality. I always customize the code to fit my specific data format and then debug it thoroughly to ensure it works as intended.
 
@@ -46,11 +46,11 @@ Example Prompts: *"Show me how to use LEFT JOIN in SQL", "Can you provide a code
 
 * **Finding Datasets**: Utilize online repositories like [Kaggle](https://www.kaggle.com/datasets) and [UCI Machine learning repository](https://archive.ics.uci.edu/) to find practice datasets relevant to your interests.
 
-* **AI-powered Practice**: Use Gemini or ChatGPT to brainstorm initial data analysis steps for your chosen dataset. Ask them to suggest relevant visualizations or potential insights.
+* **AI-powered Practice**: Use Gemini or ChatGPT to brainstorm initial data analysis steps for your chosen dataset. Ask them to suggest relevant visualisations or potential insights.
 
 * **Refine and Analyze**: Don't rely solely on AI suggestions. Use your data analysis knowledge to refine their recommendations and conduct your own analysis.
 
-Example Prompts: *"What kind of data cleaning might be necessary for this dataset?", "Can you propose some visualizations to explore trends in this data?"*
+Example Prompts: *"What kind of data cleaning might be necessary for this dataset?", "Can you propose some visualisations to explore trends in this data?"*
 
 <a id="sharpening-your-skills"></a>
 ## Sharpening Your Skills 
