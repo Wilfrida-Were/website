@@ -19,9 +19,19 @@ Generated Actionable Insights: Identified strong co-occurrence patterns between 
 
 ![Retail image](https://th.bing.com/th/id/OIP.6dtVakiVbez83WasNUyzhAHaFh?rs=1&pid=ImgDetMain)
 
-Performed Customer segmentation by age and gender, identifying variations in daily and monthly spending patterns across product categories 
+Performed Customer segmentation by age and gender, identifying variations in daily and monthly spending patterns across product categories.
 
 Analyzed customer demographics (age, gender) to understand their purchasing behaviour and identify key product categories for different customer segments.
+
+## [Tech Layoffs Data Cleaning in SQL](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/tech-layoffs-data-cleaning-in-sql.ipynb)
+
+![Alt text](https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_1280.jpg)
+
+Cleaned and prepared the Tech Layoffs 2020-2024 dataset using SQL (sqlite3) by addressing missing values, spelling mistakes and duplicate rows.
+
+### [Tech Layoffs Tableau Dashboard](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL)
+
+Used the cleaned dataset above to create an Interactive Tableau Dashboard.
 
 ## [Mental Health EDA in Python](https://github.com/Wilfrida-Were/Mental-Health-EDA/blob/main/README.md)
 
@@ -29,15 +39,15 @@ Analyzed customer demographics (age, gender) to understand their purchasing beha
 
 Used Pandas, as well as Seaborn and Matplotlib to investigate relationships between stress levels, mental health history, and treatment seeking among students, segmented by country and gender. 
 
-Unveiled patterns in mental health data by analyzing factors like gender distribution across countries, occupations, and treatment-seeking behaviour
+Unveiled patterns in mental health data by analyzing factors like gender distribution across countries, occupations, and treatment-seeking behaviour.
 
 ## [Retail Sales EDA in SQL](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-SQL/blob/main/README.md)
 
 ![Retail image2](https://www.indiaretailing.com/wp-content/uploads/2017/01/retail-1.jpg)
 
-Leveraged SQL (SQLite3) to analyze retail sales data, extracting insights on customer demographics, purchasing behaviour by product category, and price variations 
+Leveraged SQL (SQLite3) to analyze retail sales data, extracting insights on customer demographics, purchasing behaviour by product category, and price variations.
 
-Shared a tutorial of how to use SQLite3 in Jupyter Notebook
+Shared a tutorial of how to use SQLite3 in Jupyter Notebook.
 
 ## [Spotify data 2023 EDA](https://github.com/Wilfrida-Were/Spotify-data-2023-EDA/blob/main/README.md)
 
