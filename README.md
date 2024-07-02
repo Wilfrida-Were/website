@@ -25,11 +25,11 @@ Analyzed customer demographics (age, gender) to understand their purchasing beha
 
 ## [Tech Layoffs Data Cleaning in SQL](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL/blob/main/tech-layoffs-data-cleaning-in-sql.ipynb)
 
-![Alt text](https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_1280.jpg)
+![Alt text](https://assets.thehansindia.com/h-upload/2021/06/02/1079774-tech-news.jpg)
 
 Cleaned and prepared the Tech Layoffs 2020-2024 dataset using SQL (sqlite3) by addressing missing values, spelling mistakes and duplicate rows.
 
-### [Tech Layoffs Tableau Dashboard](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL)
+## [Tech Layoffs Tableau Dashboard](https://github.com/Wilfrida-Were/Tech-Layoffs-Data-Cleaning-in-SQL)
 
 Used the cleaned dataset above to create an Interactive Tableau Dashboard.
 
