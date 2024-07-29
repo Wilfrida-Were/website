@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ""
+title: "Contact"
 ---
 Feel free to Connect with me on [LinkedIn](https://www.linkedin.com/in/wilfridawere/)
 
