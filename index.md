@@ -2,7 +2,6 @@
 layout: page
 title: "Data Analyst" 
 ---
-{% include head.html %}
 
 As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success. 
 
