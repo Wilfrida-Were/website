@@ -2,6 +2,7 @@
 layout: page
 title: "Data Analyst" 
 ---
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success. 
 
