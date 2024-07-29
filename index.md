@@ -1,8 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Data Analyst</h1>
+
+  <p>As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success.</p>
+
+  <p>I leverage SQL to extract relevant data, then use Python's analytical power to clean and analyze it, revealing hidden patterns and customer trends. Finally, I create clear and concise dashboards with Tableau, empowering your leadership to make data-driven decisions for marketing and efficiency.</p>
+
+  <h2>Beyond Data:</h2>
+
+  <p>When I'm not diving into datasets, you can find me:</p>
+
+  <ul>
+    <li>Strategizing over chess ♟️</li>
+    <li>Rocking out on guitar </li>
+    <li>Learning languages</li>
+    <li>Playing football ⚽️</li>
+  </ul>
+
+  <p>I also enjoy the challenge of computer troubleshooting, keeping my problem-solving skills sharp.</p>
+
+  <img src="https://www.memecreator.org/static/images/memes/5132283.jpg" alt="Data image">
+
+  </body>
+</html>
+
 ---
 layout: page
 title: "Data Analyst" 
 ---
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success. 
 
