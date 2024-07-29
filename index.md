@@ -1,7 +1,15 @@
 ---
-layout: page
+layout: default
 title: "Data Analyst" 
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="shortcut icon" href="https://github.com/Wilfrida-Were/website/blob/main/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  </body>
+</html>
 
 As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success. 
 
