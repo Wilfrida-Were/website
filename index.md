@@ -2,9 +2,8 @@
 layout: page
 title: "Data Analyst" 
 ---
-<head>
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
- </head>
+{% include head.html %}
+
 As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success. 
 
 I leverage SQL to extract relevant data, then use Python's analytical power to clean and analyze it, revealing hidden patterns and customer trends. Finally, I create clear and concise dashboards with Tableau, empowering your leadership to make data-driven decisions for marketing and efficiency.
