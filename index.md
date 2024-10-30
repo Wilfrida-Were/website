@@ -3,11 +3,11 @@ layout: page
 title: "Data Analyst" 
 ---
 
-**Welcome!** I’m Wilfrida Were, a passionate enthusiast of Data Analytics, Data Science, and Machine Learning, dedicated to learning, sharing, and empowering others in the data space. My journey is driven by transparency, as I believe that true growth comes from making mistakes and learning from them.
+**Welcome!** I’m Wilfrida Were, a Data Analytics, Data Science, and Machine Learning enthusiast on a mission to build a community where curiosity and collaboration drive growth. I believe the best learning comes from sharing knowledge openly, making mistakes, and supporting each other along the way.
 
-With a background in Data Analytics and a portfolio showcasing my projects on Kaggle and GitHub, I’m here to help others navigate the complexities of data. My ultimate goal is to create a supportive community where individuals can learn, grow, and excel in data analytics through coaching, mentorship, and engaging content.
+With a background in data analytics and a portfolio on platforms like Kaggle and GitHub, I’m here to make the journey through data accessible and engaging. My goal is to create a space where anyone can learn, connect, and grow—whether you’re new to data or further along in your own journey.
 
-When I'm not diving into datasets, you can find me strategizing over chess ♟️, rocking out on guitar , learning languages or playing football ⚽️. I also enjoy the challenge of computer troubleshooting, keeping my problem-solving skills sharp.
+When I’m not exploring datasets, I enjoy strategizing over chess ♟️, rocking out on guitar 🎸, learning new languages, and playing football ⚽️. My love for problem-solving extends beyond data to anything that challenges me to think critically and improve.
 
 I invite you to join me on this journey as we **explore** the world of data together!
 
