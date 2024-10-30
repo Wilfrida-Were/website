@@ -3,12 +3,12 @@ layout: page
 title: "Data Analyst" 
 ---
 
-As a Data Analyst, I can help you navigate the sea of data and unlock hidden insights that drive business success. 
+**Welcome!** I’m Wilfrida Were, a passionate enthusiast of Data Analytics, Data Science, and Machine Learning, dedicated to learning, sharing, and empowering others in the data space. My journey is driven by transparency, as I believe that true growth comes from making mistakes and learning from them.
 
-I leverage SQL to extract relevant data, then use Python's analytical power to clean and analyze it, revealing hidden patterns and customer trends. Finally, I create clear and concise dashboards with Tableau, empowering your leadership to make data-driven decisions for marketing and efficiency.
-
-Beyond Data:
+With a background in Data Analytics and a portfolio showcasing my projects on Kaggle and GitHub, I’m here to help others navigate the complexities of data. My ultimate goal is to create a supportive community where individuals can learn, grow, and excel in data analytics through coaching, mentorship, and engaging content.
 
 When I'm not diving into datasets, you can find me strategizing over chess ♟️, rocking out on guitar , learning languages or playing football ⚽️. I also enjoy the challenge of computer troubleshooting, keeping my problem-solving skills sharp.
+
+I invite you to join me on this journey as we **explore** the world of data together!
 
 ![Data image](https://www.memecreator.org/static/images/memes/5132283.jpg)
