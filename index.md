@@ -1,14 +1,17 @@
 ---
 layout: page
-title: "Data Analyst" 
+title: "Data Analytics Consultant" 
 ---
 
-**Welcome!** I’m Wilfrida Were, a Data Analytics, Data Science, and Machine Learning enthusiast on a mission to build a community where curiosity and collaboration drive growth. I believe the best learning comes from sharing knowledge openly, making mistakes, and supporting each other along the way.
+**👉 Is your business losing money or customers due to messy data and unclear insights?**
 
-With a background in data analytics and a growing portfolio on platforms like Kaggle and GitHub, I’m here to make the journey through data accessible and engaging. My goal is to create a space where anyone can learn, connect, and grow—whether you’re new to data or further along in your own journey.
+I help businesses turn data into profits — cutting costs, improving efficiency, and boosting customer retention
 
-When I’m not exploring datasets, I enjoy strategizing over chess ♟️, rocking out on guitar 🎸, learning new languages, and playing football ⚽️. My love for problem-solving extends beyond data to anything that challenges me to think critically and improve.
+🔹 Track where your money is going
+🔹 Find & fix financial leaks
+🔹 Use customer insights to drive revenue
 
-I invite you to join me on this journey as we **explore** the world of data together!
+Let’s unlock the power of your data — Get in touch today!
 
-![Data image](https://www.memecreator.org/static/images/memes/5132283.jpg)
+Not sure why data matters? See how businesses lose money by ignoring it → [Read More]()
+
