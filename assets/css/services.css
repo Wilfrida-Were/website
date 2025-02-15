@@ -1,9 +1,10 @@
 /* General Page Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: none;
+    background-color: #121212; /* Dark mode background */
     margin: 0;
     padding: 20px;
+    color: white; /* Default text color for dark mode */
 }
 
 /* Service Box Container */
@@ -17,12 +18,13 @@ body {
 /* Individual Service Box */
 .service-box {
     width: 250px;
-    background: white;
+    background: white;  /* Ensures contrast in dark mode */
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     border-top: 6px solid;
+    color: black; /* Set text color to black for contrast */
 }
 
 /* Add Colors to Each Box */
@@ -30,6 +32,14 @@ body {
 .red { border-color: #DC3545; }
 .yellow { border-color: #FFC107; }
 .green { border-color: #28A745; }
+
+/* Ensure good contrast in dark mode */
+@media (prefers-color-scheme: dark) {
+    .service-box {
+        background: rgba(255, 255, 255, 0.1); /* Slight transparency */
+        color: white; /* Ensures readability in dark mode */
+    }
+}
 
 /* Button Styling */
 button {
