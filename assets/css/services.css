@@ -9,22 +9,23 @@ body {
 /* Service Box Container */
 .services-container {
     display: flex;
-    justify-content: space-between; /* Ensures equal spacing */
+    justify-content: space-between; /* Ensures boxes are evenly spread */
+    flex-wrap: wrap; /* Prevents overflowing on small screens */
     gap: 20px;
-    flex-wrap: nowrap; /* Prevents wrapping to a new line */
-    align-items: stretch; /* Makes all boxes equal height */
+    max-width: 1000px; /* Prevents excessive stretching */
+    margin: 0 auto; /* Centers the section */
+}
 
 /* Individual Service Box */
 .service-box {
-    flex: 1; /* Ensures equal width */
-    min-width: 300px; /* Adjust as needed */
-    max-width: 400px; /* Prevents boxes from stretching too much */
+    width: 30%; /* Each box takes up 30% of the row */
     background: none;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     border-top: 6px solid;
+    min-height: 250px; /* Ensures uniform height */
 }
 
 /* Add Colors to Each Box */
@@ -41,12 +42,11 @@ h1 {
 /* Responsive Design for Smaller Screens */
 @media (max-width: 900px) {
     .services-container {
-        flex-wrap: wrap; /* Allows wrapping if screen is too small */
-        justify-content: center; /* Centers boxes when wrapped */
+        flex-direction: column; /* Stacks boxes vertically */
+        align-items: center; /* Centers them */
     }
-    
+
     .service-box {
-        min-width: 100%; /* Makes each box full width on small screens */
-        max-width: 100%;
+        width: 90%; /* Full width on smaller screens */
     }
 }
