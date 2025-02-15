@@ -13,5 +13,5 @@ I help businesses turn data into profits — cutting costs, improving efficiency
 
 Let’s unlock the power of your data — Get in touch today!
 
-Not sure why data matters? See how businesses lose money by ignoring it → [Read More]()
+Not sure why data matters? See how businesses lose money by ignoring it → **[Read More](https://www.wilfridawere.com/TheSilentKillerofBusinesses-UnusedData/)**
 
