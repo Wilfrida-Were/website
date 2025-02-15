@@ -105,4 +105,5 @@ Every business already has valuable data. The question is: Are you using it to m
 
 If your business is losing money or struggling with customer retention, your data is your answer. You just need the right strategy to unlock it.
 
-📌 **Want to see how your data can help you? [Let’s talk.](https://www.wilfridawere.com/services/)** 
+📌 **Want to see how your data can help you? [Explore services](/services) or [book a call](https://calendly.com/wilfrida-a-were).**
+
