@@ -9,23 +9,28 @@ body {
 /* Service Box Container */
 .services-container {
     display: flex;
-    justify-content: space-between; /* Ensures boxes are evenly spread */
-    flex-wrap: wrap; /* Prevents overflowing on small screens */
+    flex-wrap: wrap;
+    justify-content: center; /* Centers the first row */
     gap: 20px;
-    max-width: 1000px; /* Prevents excessive stretching */
-    margin: 0 auto; /* Centers the section */
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 /* Individual Service Box */
 .service-box {
-    width: 30%; /* Each box takes up 30% of the row */
+    width: 45%; /* First two boxes take 45% each */
     background: none;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     border-top: 6px solid;
-    min-height: 250px; /* Ensures uniform height */
+    min-height: 250px;
+}
+
+/* The third box stretches across both */
+.service-box.full-width {
+    width: 100%; /* Makes it stretch across the full container */
 }
 
 /* Add Colors to Each Box */
@@ -42,8 +47,8 @@ h1 {
 /* Responsive Design for Smaller Screens */
 @media (max-width: 900px) {
     .services-container {
-        flex-direction: column; /* Stacks boxes vertically */
-        align-items: center; /* Centers them */
+        flex-direction: column; /* Stacks all boxes */
+        align-items: center;
     }
 
     .service-box {
