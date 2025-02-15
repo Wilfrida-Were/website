@@ -11,7 +11,7 @@ I help businesses turn data into profits — cutting costs, improving efficiency
 🔹 Find & fix financial leaks
 🔹 Use customer insights to drive revenue
 
-Let’s unlock the power of your data — Get in touch today!
+Let’s unlock the power of your data — **[Get in touch](https://www.wilfridawere.com/contact/) or [book a call](https://calendly.com/wilfrida-were)**
 
 Not sure why data matters? See how businesses lose money by ignoring it → **[Read More](https://www.wilfridawere.com/TheSilentKillerofBusinesses-UnusedData/)**
 
