@@ -5,6 +5,8 @@ layout: post
 
 Every business generates data—transactions, customer behavior, sales trends, expenses—but most companies ignore it or don’t know how to use it.
 
+![Dashboard](https://cdn.pixabay.com/photo/2016/10/09/08/32/digital-marketing-1725340_1280.jpg)
+
 Think about it:
 
 🔹 A retail store struggling with low sales but never analyzing what products customers buy most.
@@ -103,4 +105,4 @@ Every business already has valuable data. The question is: Are you using it to m
 
 If your business is losing money or struggling with customer retention, your data is your answer. You just need the right strategy to unlock it.
 
-📌 **Want to see how your data can help you? [Let’s talk.]()**
+📌 **Want to see how your data can help you? [Let’s talk.](https://www.wilfridawere.com/contact/)**
