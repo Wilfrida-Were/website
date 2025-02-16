@@ -31,5 +31,9 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+paginate: 5  # Number of posts per page
+paginate_path: "/page:num/"
+
 plugins:
  - jekyll-feed
+ - jekyll-paginate
