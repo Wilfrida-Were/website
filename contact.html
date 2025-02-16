@@ -31,6 +31,53 @@ title: "Contact"
             height: 600px;
             border: none;
         }
+        .faq-container {
+            max-width: 700px;
+            margin: 40px auto;
+            text-align: center;
+        }
+        .faq-item {
+            border-bottom: 1px solid #ccc;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+        }
+        .faq-question {
+            width: 100%;
+            background: none;
+            border: none;
+            text-align: left;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            padding: 15px;
+            transition: 0.3s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #f9f9f9;
+            border-radius: 5px;
+            outline: none;
+        }
+        .faq-question:hover {
+            background-color: #e0e0e0;
+        }
+        .faq-question::after {
+            content: "+";
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .faq-question.active::after {
+            content: "-";
+        }
+        .faq-answer {
+            display: none;
+            padding: 10px;
+            font-size: 16px;
+            background-color: #ffffff;
+            border-left: 4px solid #007bff;
+            border-radius: 5px;
+            margin-top: 5px;
+        }
     </style>
 </head>
 <body>
@@ -41,7 +88,6 @@ title: "Contact"
     <h2>📅 Book a Free 15-Minute Call</h2>
     <a href="https://calendly.com/wilfrida-were" class="btn" target="_blank">Book a Call</a>
 
-    <hr>
 
     <!-- Contact Form -->
     <h2>✉️ Fill Out the Form</h2>
@@ -54,7 +100,62 @@ title: "Contact"
         frameborder="0" 
         marginheight="0" 
         marginwidth="0">
-</iframe>
+    </iframe>
+    
+
+    <!-- FAQ Section -->
+    <div class="faq-container">
+        <h2>Frequently Asked Questions</h2>
+
+        <div class="faq-item">
+            <button class="faq-question">How do I know if I need data consulting?</button>
+            <div class="faq-answer">
+                <p>If you're struggling with messy spreadsheets, unclear reports, or making decisions without solid data, I can help you turn your data into clear, actionable insights.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">What industries do you work with?</button>
+            <div class="faq-answer">
+                <p>I work with startups, small & medium-sized businesses, and enterprises in various industries, including finance, healthcare, education, and technology.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">What happens after I book a consultation?</button>
+            <div class="faq-answer">
+                <p>We will discuss your business challenges, data needs, and how I can help. If it is a good fit, we will outline the next steps to get started.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">Do you offer one-time projects or only long-term work?</button>
+            <div class="faq-answer">
+                <p>Both! I offer one-time data cleanups, dashboards, and audits, as well as ongoing support for businesses that need continuous data management and automation.</p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">What tools do you use for reporting and automation?</button>
+            <div class="faq-answer">
+                <p>
+                    - <strong>Data Analytics & Reporting:</strong> Power BI, Looker, Excel, Google Sheets <br>
+                    - <strong>Data Pipelines & Integration:</strong> SQL, Python, Azure Data Factory, Google BigQuery <br>
+                    - <strong>Web Automation & AI-Powered Solutions:</strong> Python scripts, Web Scraping, AI-based automation
+                </p>
+            </div>
+        </div>
+
+        <div class="faq-item">
+            <button class="faq-question">Can you automate repetitive data tasks?</button>
+            <div class="faq-answer">
+                <p>Yes! I build Python scripts, SQL queries, and AI-powered automation to save you time by streamlining data collection, transformation, and reporting.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript File -->
+    <script src="/assets/js/faq.js" defer></script>
 
 </body>
 </html>
