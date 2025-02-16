@@ -69,3 +69,26 @@ h4 {
     font-style: italic;   /* Makes it italic */
 }
 
+/* Style for the price section */
+.pricing {
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* Price Badge */
+.price-badge {
+    background-color: #0056B3; /* Blue */
+    color: white;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+/* Main Price */
+.price {
+    font-size: 18px;
+    font-weight: normal;
+    color: #222; /* Darker color for contrast */
+}
