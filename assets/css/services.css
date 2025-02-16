@@ -63,3 +63,9 @@ h1 {
     font-size: 16px;  /* Adjusts font size (optional) */
     margin-bottom: 20px;  /* Adds spacing below */
 }
+
+h4 {
+    font-weight: normal;  /* Removes bold */
+    font-style: italic;   /* Makes it italic */
+}
+
