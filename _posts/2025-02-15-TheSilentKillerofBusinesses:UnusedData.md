@@ -103,7 +103,7 @@ AI & fancy tools won’t help unless they’re properly implemented. That’s wh
 
 Every business already has valuable data. The question is: Are you using it to make better decisions?
 
-If your business is losing money or struggling with customer retention, your data is your answer. You just need the right strategy to unlock it.
+If your business is losing money or struggling with customer retention, your data is your answer. With the right **customer, financial**, and **operational analytics** strategies, I can help you unlock the potential of your data to transform your business.
 
 📌 **Want to see how your data can help you? [Explore services](/services) or [book a call](https://calendly.com/wilfrida-were).**
 
