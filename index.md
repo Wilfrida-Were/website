@@ -5,13 +5,13 @@ title: "Data Analytics Consultant"
 
 **👉 Is your business losing money or customers due to messy data and unclear insights?**
 
-I help businesses turn data into profits — cutting costs, improving efficiency, and boosting customer retention
+I help businesses leverage **customer, financial**, and **operational analytics** to drive **growth, reduce costs**, and **boost customer retention**.
 
-✅ Track where your money is going
+✅ Optimize your financial strategies and reduce leaks
 
-✅ Find & fix financial leaks
+✅ Uncover customer insights to improve retention and drive revenue
 
-✅ Use customer insights to drive revenue
+✅ Improve operational efficiency and streamline decision-making 
 
 🚀 Let’s unlock the power of your data! — **[Get in touch](https://www.wilfridawere.com/contact/)**
 
@@ -29,7 +29,7 @@ I’m Wilfrida Were, a Data Analytics Consultant experienced in:
 
 🔹 AI & Machine Learning – Sentiment Analysis, RFM modeling, and Market Basket Analysis (Apriori Algorithm) for smarter business decisions
 
-I help businesses uncover hidden patterns, automate workflows, and make data-driven decisions that drive growth.
+I help businesses uncover hidden patterns, automate workflows, and make **data-driven decisions** that drive growth and improve **customer, financial**, and **operational** outcomes.
 
 Want to see how data can transform your business?
 
