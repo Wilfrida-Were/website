@@ -23,7 +23,7 @@ I’m Wilfrida Were, a Data Analytics Consultant experienced in:
 
 🔹 SQL, Python, Power BI, Looker, Azure, Google BigQuery, Excel & Google Sheets
 
-🔹 Data Cleaning | Data Visualisation | Web Automation | Business Intelligence
+🔹 Data Cleaning, Data Visualisation, Web Automation, Business Intelligence
 
 🔹 AI & Machine Learning – Sentiment Analysis, RFM modeling, and Market Basket Analysis (Apriori Algorithm) for smarter business decisions
 
@@ -31,4 +31,5 @@ I help businesses uncover hidden patterns, automate workflows, and make data-dri
 
 Want to see how data can transform your business?
 
-➡️ **[Let's Talk](https://www.wilfridawere.com/contact/) | [See My Work](https://www.wilfridawere.com/portfolio/)**
+➡️ **[Let's Talk](https://www.wilfridawere.com/contact/)**
+➡️ **[See My Work](https://www.wilfridawere.com/portfolio/)**
