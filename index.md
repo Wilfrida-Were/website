@@ -17,6 +17,8 @@ I help businesses turn data into profits — cutting costs, improving efficiency
 
 Not sure why data matters? See how businesses lose money by ignoring it → **[Read More](https://www.wilfridawere.com/TheSilentKillerofBusinesses-UnusedData/)**
 
+---
+
 # 👋 About Me
 
 I’m Wilfrida Were, a Data Analytics Consultant experienced in:
