@@ -3,7 +3,6 @@ title: "Portfolio"
 permalink: "/portfolio/"
 layout: page
 ---
-EDA - *Exploratory Data Analysis*
 
 Click the project **titles** to view the full projects.
 
@@ -12,6 +11,8 @@ Click the project **titles** to view the full projects.
 Analyzed customer purchase patterns to identify frequently bought-together items using the Apriori algorithm. Generated actionable insights for cross-selling and product bundling strategies, helping businesses optimize sales and inventory management.
 
 ## [Retail Sales EDA in Python](https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md)
+
+EDA - *Exploratory Data Analysis*
 
 Conducted exploratory data analysis (EDA) on retail sales data, segmenting customers by age and gender to identify variations in spending patterns across product categories. Helped businesses understand consumer behavior and optimize pricing strategies based on customer segments.
 
