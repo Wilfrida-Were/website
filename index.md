@@ -15,7 +15,7 @@ I help businesses leverage **customer, financial**, and **operational analytics*
 
 🚀 Let’s unlock the power of your data! — **[Get in touch](https://www.wilfridawere.com/contact/)**
 
-Not sure why data matters? See how businesses lose money by ignoring it → **[Read More](https://www.wilfridawere.com/TheSilentKillerofBusinesses-UnusedData/)**
+Not sure why data matters? See how your business loses money by ignoring it → **[Read More](https://www.wilfridawere.com/TheSilentKillerofBusinesses-UnusedData/)**
 
 ---
 
