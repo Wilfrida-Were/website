@@ -21,7 +21,9 @@ Not sure why data matters? See how your business loses money by ignoring it → 
 
 # 👋 About Me
 
-I’m Wilfrida Were, a Data Analytics Consultant experienced in:
+I’m Wilfrida Were, a Data Analytics Consultant. I turn complex data into simple, strategic decisions that help businesses increase revenue, reduce costs, and improve efficiency. By combining Data Analytics, Automation, and AI, I help companies optimize their **financial**, **customer**, and **operational** strategies.
+
+💡 How? By leveraging:
 
 🔹 SQL, Python, Power BI, Looker, Azure, Google BigQuery, Excel & Google Sheets
 
@@ -29,9 +31,7 @@ I’m Wilfrida Were, a Data Analytics Consultant experienced in:
 
 🔹 AI & Machine Learning – Sentiment Analysis, RFM modeling, and Market Basket Analysis (Apriori Algorithm) for smarter business decisions
 
-I help businesses uncover hidden patterns, automate workflows, and make **data-driven decisions** that drive growth and improve **customer, financial**, and **operational** outcomes.
-
-Want to see how data can transform your business?
+***Data is your business’s most valuable asset — let’s turn it into actionable insights that drive growth.***
 
 ➡️ **[Let's Talk](https://www.wilfridawere.com/contact/)**
 ➡️ **[See My Work](https://www.wilfridawere.com/portfolio/)**
