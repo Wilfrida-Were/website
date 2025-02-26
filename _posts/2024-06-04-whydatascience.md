@@ -1,7 +1,11 @@
 ---
 title:  "Why Data Science?"
 layout: post
+date: 2024-06-04
+description: "Data Science is more than just numbers—it's the key to solving real-world problems. Explore why I chose data science, why it is one of the most in-demand fields, how it impacts industries, and why you should consider building a career in it."
+tags: [Data Science, Career, Analytics]
 ---
+
 ![data science](https://i1.wp.com/phdcoding.com/wp-content/uploads/2020/04/what-is-data-science.jpg?fit=1920%2C1080&ssl=1)
 
 My love affair with computers started with video games, but the real magic was behind the screen. I've always been fascinated by how things work, who builds them, and the intricate details that make them tick. 
