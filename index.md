@@ -20,7 +20,7 @@ Not sure why data matters? See how your business loses money by ignoring it → 
 
 ---
 
-# 👋 <span style="font-size: 2rem; font-weight: bold;">Meet Wilfrida Were – Data Analytics Consultant</span>
+# 👋 <span style="font-size: 2rem; font-weight: bold;">Meet Wilfrida Were</span>
 
 With a strong background in <span style="font-weight: bold;">Customer Service</span> and <span style="font-weight: bold;">Data Analytics</span>, I transform raw data into actionable insights that power smarter decisions across **marketing, product development, inventory management, and budgeting**.
 
