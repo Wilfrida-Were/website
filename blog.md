@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Blog"
+description: "Read insightful articles by Wilfrida Were on data analytics, data cleaning, visualization, and AI. Stay updated with the latest trends and techniques."
 ---
 
 {% if site.show_excerpts %}
