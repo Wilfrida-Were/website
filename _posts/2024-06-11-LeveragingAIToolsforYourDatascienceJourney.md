@@ -1,7 +1,11 @@
 ---
 title:  "Leveraging AI Tools for Your Data Science Journey"
 layout: post
+date: 2024-06-11
+description: "AI is revolutionizing data science! Discover the best AI-powered tools that can enhance your workflow, automate tasks, and improve decision-making. Whether you're a beginner or an expert, these tools will supercharge your data science journey."
+tags: [AI, Data Science, Automation]
 ---
+
 AI tools like ChatGPT and Gemini are supplemental. They won't replace the need for dedicated learning and practice.
 
 ![AI tools](https://cdn.pixabay.com/photo/2023/02/04/17/28/chat-7767693_1280.jpg)
