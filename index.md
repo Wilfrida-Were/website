@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Data Analytics Consultant" 
+description: Wilfrida Were – Data Analytics Consultant | I clean, analyze, and visualize data to drive insights. Explore my portfolio, blog, and services to learn more."
 ---
 
 **👉 Is your business losing money or customers due to messy data and unclear insights?**
