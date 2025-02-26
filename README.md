@@ -1,7 +1,7 @@
 ---
 title: "Portfolio"
-permalink: "/portfolio/"
 layout: page
+description: "Explore Wilfrida Were’s portfolio of data analytics projects. See how I clean, analyze, and visualize data to extract meaningful business insights."
 ---
 
 Click the project **titles** to view the full projects.
