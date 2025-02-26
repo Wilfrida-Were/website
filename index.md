@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Data Analytics Consultant" 
-description: Wilfrida Were – Data Analytics Consultant | I clean, analyze, and visualize data to drive insights. Explore my portfolio, blog, and services to learn more."
+description: "Wilfrida Were transforms raw data into valuable insights for businesses. Learn more about data, customer data, analytics, and AI automation."
 ---
 
 **👉 Is your business losing money or customers due to messy data and unclear insights?**
@@ -20,13 +20,13 @@ Not sure why data matters? See how your business loses money by ignoring it → 
 
 ---
 
-# 👋 About Me
+# 👋 <span style="font-size: 2rem; font-weight: bold;">About Me</span>
 
-I’m Wilfrida Were, a Data Analytics Consultant
+I’m <span style="font-weight: bold;">Wilfrida Were</span>, a Data Analytics Consultant.
 
-With a strong background in **Customer service** and **Data Analytics**, I transform raw data into actionable insights that power smarter decisions across marketing, product development, inventory management and budgeting
+With a strong background in <span style="font-weight: bold;">Customer Service</span> and <span style="font-weight: bold;">Data Analytics</span>, I transform raw data into actionable insights that power smarter decisions across **marketing, product development, inventory management, and budgeting**.
 
-💡 How? By leveraging:
+💡 <span style="font-weight: bold;">How?</span> By leveraging:
 
 🔹 SQL, Python, Power BI, Looker, Azure, Google BigQuery, Excel & Google Sheets
 
@@ -36,5 +36,5 @@ With a strong background in **Customer service** and **Data Analytics**, I trans
 
 ***Data is your business’s most valuable asset — let’s turn it into actionable insights that drive growth.***
 
-➡️ **[Let's Talk](https://www.wilfridawere.com/contact/)**
-➡️ **[See My Work](https://www.wilfridawere.com/portfolio/)**
+➡️ [Let's Talk](https://www.wilfridawere.com/contact/)
+➡️ [See My Work](https://www.wilfridawere.com/portfolio/)
