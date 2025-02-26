@@ -14,9 +14,9 @@ I help businesses harness **customer analytics** to boost retention, drive reven
 
 ✅ Optimize marketing, product development, inventory management, and budgeting through data-driven customer insights
 
-🚀 Let’s unlock the power of your data! — **[Get in touch](https://www.wilfridawere.com/contact/)**
+🚀 Let’s unlock the power of your data! — [Get in touch](https://www.wilfridawere.com/contact/)
 
-Not sure why data matters? See how your business loses money by ignoring it → **[Read More](https://www.wilfridawere.com/TheSilentKillerofBusinesses-UnusedData/)**
+Not sure why data matters? See how your business loses money by ignoring it → [Read More](https://www.wilfridawere.com/the-silent-killer-of-businesses-unused-data/)
 
 ---
 
