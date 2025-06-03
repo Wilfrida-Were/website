@@ -33,12 +33,6 @@ unless explicitly stated or with written consent from the author.
 
 ---
 
-## 💰 Affiliate Disclosure
-
-This site may include affiliate links that generate a small commission for the author at no additional cost to you. Affiliate links help support the site and the creator's educational work.
-
----
-
 ## 📬 Contact
 
 If you would like to request permission to reuse content, collaborate, or license content:
