@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Data Analytics Consultant" 
+title: "Data Analyst" 
 description: "Wilfrida Were transforms raw data into valuable insights for businesses. Learn more about data, customer data, analytics, and AI automation."
 ---
 
