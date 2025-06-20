@@ -8,11 +8,11 @@ description: "Wilfrida Were transforms raw data into valuable insights for busin
 
 I help businesses harness **customer analytics** to boost retention, drive revenue, and fine-tune marketing strategies
 
-✅ Identify key customer segments and behavior patterns
+✅ Know who your best customers are
 
-✅ Uncover insights that transform customer engagement and loyalty
+✅ Understand what makes them stay (or leave)
 
-✅ Optimize marketing, product development, inventory management, and budgeting through data-driven customer insights
+✅ Make smarter decisions across marketing, sales, and support
 
 🚀 Let’s unlock the power of your data! — [Get in touch](https://www.wilfridawere.com/contact/)
 
