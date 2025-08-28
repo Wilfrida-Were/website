@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Data Analyst" 
+title: "Data Analyst & Consultant" 
 description: "Wilfrida Were transforms raw data into valuable insights for businesses. Learn more about data, customer data, analytics, and AI automation."
 ---
 
 **👉 Is your business losing money or customers due to messy data and unclear insights?**
 
-I help businesses harness **customer analytics** to boost retention, drive revenue, and fine-tune marketing strategies
+I help businesses harness **Data analytics** to boost retention, drive revenue, and fine-tune marketing strategies
 
 ✅ Know who your best customers are
 
