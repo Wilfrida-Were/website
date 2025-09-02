@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio | Wilfrida Were</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWKPFTX22Q"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZWKPFTX22Q');
+  </script>
+</head>
+<body> 
+
+  <!-- Header -->
+  <header class="header">
+    <div class="logo">
+      <a href="index.html">
+        <img src="logo.png" alt="Wilfrida Were">
+      </a>
+    </div>
+
+    <!-- Hamburger for mobile -->
+    <input type="checkbox" id="menu-toggle" />
+    <label for="menu-toggle" class="hamburger"><i class="fas fa-bars"></i></label>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html" class="active">Portfolio</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main content -->
+  <main>
+    <section class="portfolio-hero">
+      <h1>Portfolio</h1>
+      <p>Here are some of my projects. Click <strong>"SEE MORE"</strong> to view on GitHub. Find more projects on Kaggle linked to Github</p>
+    </section>
+    <div class="portfolio-grid">
+      <!-- Project 1 -->
+      <div class="portfolio-item">
+        <img src="Project1.jpeg" alt="Project 1">
+        <h3>Retail Sales EDA in Python</h3>
+        <a href="https://github.com/Wilfrida-Were/Retail-Sales-EDA-in-Python/blob/main/README.md" target="_blank" class="see-more">SEE MORE</a>
+      </div>
+
+      <!-- Project 2 -->
+      <div class="portfolio-item">
+        <img src="Project2.jpg" alt="Project 2">
+        <h3>Market Basket Analysis</h3>
+        <a href="https://github.com/Wilfrida-Were/Market-Basket-Analysis/blob/main/README.md" target="_blank" class="see-more">SEE MORE</a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-left">
+      <p>&copy; 2025 Wilfrida Were. All rights reserved.</p>
+    </div>
+    <div class="footer-right">
+      <a href="https://ko-fi.com/wilfridawere/" target="_blank" class="kofi">
+        <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" 
+            alt="Support me on Ko-fi" 
+            style="height: 24px; width: auto; vertical-align: middle;">
+      </a>
+      <a href="https://github.com/Wilfrida-Were" target="_blank" class="github"><i class="fab fa-github"></i></a>
+      <a href="https://linkedin.com/in/wilfridawere/" target="_blank" class="linkedin"><i class="fab fa-linkedin"></i></a>
+      <a href="https://kaggle.com/wilfridawere" target="_blank" class="kaggle"><i class="fab fa-kaggle"></i></a>
+      <!-- <a href="https://youtube.com/yourprofile" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> -->
+    </div>
+  </footer>
+</body>
+</html>
+
