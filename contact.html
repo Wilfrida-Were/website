@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Wilfrida Were</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- Favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWKPFTX22Q"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-ZWKPFTX22Q');
+  </script>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="logo">
+      <a href="index.html">
+        <img src="logo.png" alt="Wilfrida Were">
+      </a>
+    </div>
+
+    <!-- Hamburger for mobile -->
+    <input type="checkbox" id="menu-toggle" />
+    <label for="menu-toggle" class="hamburger"><i class="fas fa-bars"></i></label>
+
+    <nav class="nav">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main content -->
+  <main class="contact-main">
+    <h1>Contact</h1>
+    <p>Have a question, need help with data, or want to collaborate? Fill out the form below.</p>
+
+    <!-- Embed Tally Form -->
+    <div class="tally-form-wrapper">
+      <iframe src="https://tally.so/embed/3NRXjb?hideTitle=1&transparentBackground=1&dynamicHeight=1" 
+          title="Contact Form" 
+          frameborder="0" 
+          marginheight="0" 
+          marginwidth="0">
+      </iframe>
+    </div>
+  </main>
+
+  <!-- FAQ Section -->
+  <div class="faq-container">
+      <h2>Frequently Asked Questions</h2>
+
+      <div class="faq-item">
+          <input type="checkbox" id="faq1">
+          <label for="faq1" class="faq-question">How do I know if I need data consulting?</label>
+          <div class="faq-answer">
+              <p>If your data is messy, unclear, or not helping you make decisions, I can help turn it into clear insights.</p>
+          </div>
+      </div>
+
+      <div class="faq-item">
+          <input type="checkbox" id="faq2">
+          <label for="faq2" class="faq-question">What happens after I book a consultation?</label>
+          <div class="faq-answer">
+              <p>We discuss your needs, explore solutions, and outline the next steps if it’s a good fit.</p>
+          </div>
+      </div>
+
+      <div class="faq-item">
+          <input type="checkbox" id="faq3">
+          <label for="faq3" class="faq-question">Do you offer one-time projects or only long-term work?</label>
+          <div class="faq-answer">
+              <p>I offer both! Check the Services page for more details.</p>
+          </div>
+      </div>
+
+      <div class="faq-item">
+          <input type="checkbox" id="faq4">
+          <label for="faq4" class="faq-question">Can you automate repetitive data tasks?</label>
+          <div class="faq-answer">
+              <p>Yes! I create scripts, queries, and pipelines to save time and simplify your workflows.</p>
+          </div>
+      </div>
+  </div>
+
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-left">
+      <p>&copy; 2025 Wilfrida Were. All rights reserved.</p>
+    </div>
+    <div class="footer-right">
+      <a href="https://ko-fi.com/wilfridawere/" target="_blank" class="kofi">
+        <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" 
+            alt="Support me on Ko-fi" 
+            style="height: 24px; width: auto; vertical-align: middle;">
+      </a>
+      <a href="https://github.com/Wilfrida-Were" target="_blank" class="github"><i class="fab fa-github"></i></a>
+      <a href="https://linkedin.com/in/wilfridawere/" target="_blank" class="linkedin"><i class="fab fa-linkedin"></i></a>
+      <a href="https://kaggle.com/wilfridawere" target="_blank" class="kaggle"><i class="fab fa-kaggle"></i></a>
+      <!-- <a href="https://youtube.com/yourprofile" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> -->
+    </div>
+  </footer>
+
+</body>
+</html>
