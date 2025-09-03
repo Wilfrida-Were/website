@@ -468,7 +468,7 @@ main {
   border-radius: 8px;
   font-weight: 500;
   transition: background 0.3s, transform 0.3s;
-  align-self: center;
+  align-self: flex-start;
 }
 
 .service-btn:hover {
