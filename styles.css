@@ -113,10 +113,29 @@ body {
   padding: 1rem 2rem;
   margin-top: 2rem;
   align-items: center;
+  transition: background 0.3s, color 0.3s;
 }
+
+.footer-left,
+.footer-center,
+.footer-right {
+  flex: 1;
+  text-align: center;
+}
+
+.footer-left { text-align: left; }
+.footer-right { text-align: right; }
 
 .footer-left {
   font-size: 0.9rem;
+}
+
+/* Center text - subtle and elegant */
+.footer-center p {
+  font-size: 0.85rem;
+  font-weight: 400;
+  margin: 0;
+  color: rgba(0,0,0,0.7); /* subtle black in light mode */
 }
 
 /* Footer right layout */
@@ -127,14 +146,14 @@ body {
 }
 
 /* kofi button */
-.footer-right a.coffee img {
+.footer-right a.kofi img {
   height: 32px;
   width: auto;
   border-radius: 6px;
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
-.footer-right a.coffee img:hover {
+.footer-right a.kofi img:hover {
   transform: scale(1.1);
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
 }
@@ -154,6 +173,28 @@ body {
 .footer-right a:hover {
   transform: scale(1.2);
 }
+
+/* Dark mode for footer-center text */
+@media (prefers-color-scheme: dark) {
+  .footer {
+    background: #222;
+  }
+
+  .footer-center p {
+    color: rgba(255,255,255,0.7); /* subtle white in dark mode */
+  }
+}
+
+/* Responsive tweak: stack footer items on small screens */
+@media (max-width: 768px) {
+  .footer-left,
+  .footer-center,
+  .footer-right {
+    text-align: center;
+    margin: 0.5rem 0;
+  }
+}
+
 
 /* Main content */
 main {
