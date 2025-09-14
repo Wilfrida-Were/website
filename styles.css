@@ -467,14 +467,17 @@ main {
   gap: 2rem;
   flex-wrap: wrap;
   align-items: stretch; /* ensures equal column height */
+  justify-content: space-between; /* optional to push columns apart */
 }
 
 /* Each column (Business / Data Learners) */
 .services-column {
-  flex: 1 1 300px; /* min-width 300px, stretch equally */
+/*   flex: 1 1 300px; /* min-width 300px, stretch equally */ 
+  flex: 1 1 calc(50% - 1rem); /* 50% width minus half the gap for spacing */
   display: flex;
   flex-direction: column;
   gap: 2rem;
+  min-width: 300px;
 }
 
 /* Column headings */
