@@ -501,6 +501,11 @@ main {
   justify-content: space-between; /* keeps button at bottom */
 }
 
+.price {
+  color: #005bb5;
+  font-weight: 700;
+}
+
 .service-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 10px 25px rgba(0,91,181,0.2); /* stronger blue on hover */
