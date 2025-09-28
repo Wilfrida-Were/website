@@ -503,8 +503,8 @@ main {
   box-shadow: 0 10px 25px rgba(0,91,181,0.2); /* stronger blue on hover */
 }
 
-.service-card h2,
-.service-card h3 {
+
+.service-card h2 {
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
   color: #005bb5;
