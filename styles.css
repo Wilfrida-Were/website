@@ -482,8 +482,8 @@ main {
 
 /* Individual Service Cards */
 .service-card {
-  background: #e6f0ff;
-  padding: 2rem;
+ background: linear-gradient(135deg, #e6f0ff, #cce0ff);
+  border: 1px solid #005bb5;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0,91,181,0.1); /* subtle blue shadow */
   transition: transform 0.3s, box-shadow 0.3s;
