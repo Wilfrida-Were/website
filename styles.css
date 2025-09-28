@@ -482,7 +482,7 @@ main {
 
 /* Individual Service Cards */
 .service-card {
-  background: #f4f4f4;
+  background: #e6f0ff;
   padding: 2rem;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0,91,181,0.1); /* subtle blue shadow */
@@ -542,7 +542,7 @@ main {
   .services-column h2 { color: #eee; }
 
   .service-card {
-    background: rgba(0,0,0,0.4);
+    background: #003366;
     color: #eee;
     box-shadow: 0 4px 15px rgba(0,91,181,0.15); /* subtle blue shadow in dark mode */
   }
