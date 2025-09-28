@@ -551,7 +551,7 @@ main {
     box-shadow: 0 10px 25px rgba(0,91,181,0.25); /* stronger blue on hover */
   }
 
-  .service-card h3 { color: #3399ff; }
+  .service-card h2 { color: #005bb5; }
 
   .service-card p { color: #ccc; }
 
