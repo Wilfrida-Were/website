@@ -470,7 +470,7 @@ main {
   justify-content: space-between; /* optional to push columns apart */
 }
 
-/* Each column (Business / Data Learners) */
+/* Each column*/
 .services-column {
 /*   flex: 1 1 300px; /* min-width 300px, stretch equally */ 
   flex: 1 1 calc(50% - 1rem); /* 50% width minus half the gap for spacing */
@@ -478,14 +478,6 @@ main {
   flex-direction: column;
   gap: 2rem;
   min-width: 300px;
-}
-
-/* Column headings */
-.services-column h2 {
-  text-align: center;
-  font-size: 1.75rem;
-  margin-bottom: 1.5rem;
-  color: #111;
 }
 
 /* Individual Service Cards */
@@ -511,6 +503,7 @@ main {
   box-shadow: 0 10px 25px rgba(0,91,181,0.2); /* stronger blue on hover */
 }
 
+.service-card h2,
 .service-card h3 {
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
