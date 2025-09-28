@@ -482,10 +482,10 @@ main {
 
 /* Individual Service Cards */
 .service-card {
- background: linear-gradient(135deg, #e6f0ff, #cce0ff);
-  border: 1px solid #005bb5;
+  background: linear-gradient(135deg, #e6f0ff, #cce0ff);
+  padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0,91,181,0.1); /* subtle blue shadow */
+  box-shadow: 0 4px 15px rgba(0,91,181,0.35); /* subtle blue shadow */
   transition: transform 0.3s, box-shadow 0.3s;
   flex: 1; /* ensures all cards in a column are equal height */
   display: flex;
@@ -501,7 +501,6 @@ main {
 .service-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 12px 30px rgba(0, 91, 181, 0.35); /* deeper, wider blue shadow */
-  border: 1px solid #004080; /* darker blue border on hover */
 }
 
 .service-card h2 {
