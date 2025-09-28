@@ -540,7 +540,7 @@ main {
   .services-title { color: #005bb5; }
 
   .service-card {
-    background: #e6f0ff;
+    background: rgba(0,0,0,0.4);
     color: #eee;
     box-shadow: 0 4px 15px rgba(0,91,181,0.15); /* subtle blue shadow in dark mode */
   }
