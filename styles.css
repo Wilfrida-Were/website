@@ -485,7 +485,9 @@ main {
   background: linear-gradient(135deg, #e6f0ff, #cce0ff);
   padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 0 8px #005bb5, 0 4px 15px rgba(0, 91, 181, 0.4);
+  box-shadow:
+    0 0 12px rgba(0, 91, 181, 0.4),   /* soft outer glow */
+    0 8px 20px rgba(0, 91, 181, 0.3); /* deeper shadow */
   transition: transform 0.3s, box-shadow 0.3s;
   flex: 1; /* ensures all cards in a column are equal height */
   display: flex;
@@ -541,7 +543,9 @@ main {
   .service-card {
     background: rgba(0,0,0,0.4);
     color: #eee;
-    box-shadow: 0 0 8px #005bb5, 0 4px 15px rgba(0, 91, 181, 0.4);
+    box-shadow:
+      0 0 12px rgba(51, 153, 255, 0.5),   /* soft blue glow */
+      0 8px 20px rgba(0, 91, 181, 0.4);   /* deeper shadow */
   }
 
   .service-card:hover {
