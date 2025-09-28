@@ -500,9 +500,8 @@ main {
 
 .service-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 10px 25px rgba(0,91,181,0.2); /* stronger blue on hover */
+  box-shadow: 0 10px 25px rgba(0,91,181,0.25); /* stronger blue on hover */
 }
-
 
 .service-card h2 {
   font-size: 1.25rem;
