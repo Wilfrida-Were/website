@@ -537,12 +537,10 @@ main {
 
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
-  .services-title { color: #3399ff; }
-
-  .services-column h2 { color: #eee; }
+  .services-title { color: #005bb5; }
 
   .service-card {
-    background: #003366;
+    background: #e6f0ff;
     color: #eee;
     box-shadow: 0 4px 15px rgba(0,91,181,0.15); /* subtle blue shadow in dark mode */
   }
