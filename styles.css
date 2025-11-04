@@ -495,12 +495,6 @@ main {
   justify-content: space-between; /* keeps button at bottom */
 }
 
-.service-list {
-  list-style-type: disc;
-  margin-left: 1.5rem;
-  line-height: 1.6;
-}
-
 /* Lists inside service cards */
 .service-card .service-list {
   list-style: disc;          /* show bullets even if a reset removed them */
