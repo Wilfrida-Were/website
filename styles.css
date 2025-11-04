@@ -495,25 +495,6 @@ main {
   justify-content: space-between; /* keeps button at bottom */
 }
 
-/* Lists inside service cards */
-.service-card .service-list {
-  list-style: disc;          /* show bullets even if a reset removed them */
-  margin: 0 0 1rem 1.25rem;  /* left indent + space below list */
-  padding: 0;                /* remove default padding */
-}
-
-.service-card .service-list li {
-  margin: 0.35rem 0;         /* comfy vertical spacing */
-  line-height: 1.6;
-  color: #111;               /* match your light-mode paragraph color */
-}
-
-/* Dark mode list color */
-@media (prefers-color-scheme: dark) {
-  .service-card .service-list li { color: #ccc; }
-}
-
-
 .service-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 12px 30px rgba(0, 91, 181, 0.35); /* deeper, wider blue shadow */
